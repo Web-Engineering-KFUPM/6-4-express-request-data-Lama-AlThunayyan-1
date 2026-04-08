@@ -103,8 +103,8 @@ LAB SETUP INSTRUCTIONS
  *
  * curl -i "http://localhost:3000/users/-5"
  *   → 400 { ok:false, error:"userId must be positive number" }
- *
- */
+ * curl i "http://localhost:3000" using terminal to see the response header and status code and response body
+ */ 
 
 //import express
 import express from "express";
