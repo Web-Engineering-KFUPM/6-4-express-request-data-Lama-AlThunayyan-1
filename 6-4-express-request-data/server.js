@@ -82,7 +82,7 @@ LAB SETUP INSTRUCTIONS
  *============================================
  *
  * # After running server:
- * 
+ * testing with curl: or u can press ctrl then click the url to open in browser 
  * curl "http://localhost:3000"
  *   → just see server up
  * 
