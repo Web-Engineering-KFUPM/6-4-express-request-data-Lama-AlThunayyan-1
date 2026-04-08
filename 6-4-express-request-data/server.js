@@ -16,7 +16,9 @@ LAB SETUP INSTRUCTIONS
       npm i
       OR
       npm install
-      npm install express
+      npm install express 
+
+      test
 
 3. Start the back-end server from terminal, path: 6-4-express-request-data-main\6-4-express-request-data:
    Run:
